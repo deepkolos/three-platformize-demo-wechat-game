@@ -7,4 +7,4 @@ three-platformize 适配微信小游戏 Demo
 # TODO
 
 0. 模拟器运行 √
-1. 真机运行
+1. 真机运行 √
