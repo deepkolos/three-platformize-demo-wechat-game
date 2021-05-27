@@ -1,6 +1,6 @@
-# three-platformzie-demo-wechat-game
+# three-platformize-demo-wechat-game
 
-three-platformize 适配微信小游戏 Demo
+[three-platformize](https://github.com/deepkolos/three-platformize) 适配微信小游戏 Demo
 
 微信开发工具打开 minigame 目录
 
