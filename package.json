@@ -11,7 +11,7 @@
   "author": "DeepKolos<deepkolos@qq.com>",
   "license": "",
   "dependencies": {
-    "three-platformize": "^1.0.22"
+    "three-platformize": "^1.133.3"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
